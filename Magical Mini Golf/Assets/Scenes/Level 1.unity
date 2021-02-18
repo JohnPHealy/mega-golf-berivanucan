@@ -423,9 +423,9 @@ RectTransform:
   m_Father: {fileID: 1142888118}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.86200005, y: 0.5}
-  m_AnchorMax: {x: 0.86200005, y: 0.5}
-  m_AnchoredPosition: {x: -130.54, y: 27.597}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 9.7, y: 16.5}
   m_SizeDelta: {x: 150.5294, y: 29.123}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &470522736
@@ -952,14 +952,14 @@ RectTransform:
   m_GameObject: {fileID: 1117478352}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.875, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1142888118}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.86200005, y: 0.5}
-  m_AnchorMax: {x: 0.86200005, y: 0.5}
-  m_AnchoredPosition: {x: 1.0025024, y: 29.828}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 88.5, y: 18.1}
   m_SizeDelta: {x: 72.359, y: 33.583}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1117478354
@@ -1164,8 +1164,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.24854368}
   m_AnchorMax: {x: 0.6774749, y: 1}
-  m_AnchoredPosition: {x: -160.41, y: 146.88}
-  m_SizeDelta: {x: -320.8157, y: -293.7619}
+  m_AnchoredPosition: {x: -146.19403, y: 134.11913}
+  m_SizeDelta: {x: -292.3837, y: -281.4001}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1142888119
 MonoBehaviour:
@@ -1244,7 +1244,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.86200005, y: 0.5}
   m_AnchorMax: {x: 0.86200005, y: 0.5}
-  m_AnchoredPosition: {x: 4.6, y: -0.0000061989}
+  m_AnchoredPosition: {x: 4.6, y: 0}
   m_SizeDelta: {x: 50.954, y: 40.7194}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1211437990
@@ -1391,7 +1391,7 @@ LineRenderer:
   m_SortingOrder: 0
   m_Positions:
   - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 1}
+  - {x: 0, y: 0, z: 0}
   m_Parameters:
     serializedVersion: 3
     widthMultiplier: 1
@@ -1399,8 +1399,8 @@ LineRenderer:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: 0.0385437
-        value: 0.1371479
+        time: 0.1798706
+        value: 0.2499981
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -1408,7 +1408,7 @@ LineRenderer:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 1
+        time: 0.9661255
         value: 0
         inSlope: 0
         outSlope: 0
@@ -1423,7 +1423,7 @@ LineRenderer:
       serializedVersion: 2
       key0: {r: 1, g: 1, b: 1, a: 1}
       key1: {r: 1, g: 1, b: 1, a: 1}
-      key2: {r: 0, g: 0, b: 0, a: 0}
+      key2: {r: 0, g: 0, b: 0, a: 1}
       key3: {r: 0, g: 0, b: 0, a: 0}
       key4: {r: 0, g: 0, b: 0, a: 0}
       key5: {r: 0, g: 0, b: 0, a: 0}
@@ -1439,7 +1439,7 @@ LineRenderer:
       ctime7: 0
       atime0: 0
       atime1: 65535
-      atime2: 0
+      atime2: 65535
       atime3: 0
       atime4: 0
       atime5: 0
@@ -1627,7 +1627,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
