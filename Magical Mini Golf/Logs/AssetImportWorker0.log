@@ -907,3 +907,43 @@ System memory in use after: 102.4 MB.
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2979.
 Total: 2.173300 ms (FindLiveObjects: 0.268100 ms CreateObjectMapping: 0.107600 ms MarkObjects: 1.743900 ms  DeleteObjects: 0.053000 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 702.857658 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1084d72a3426e9ca4947db94c1899b59') in 0.015607 seconds
+  Import took 0.020996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.716817 seconds.
+  path: Assets/Scenes/Level3 Complete.unity
+  artifactKey: Guid(ac6a7faf8965b234086130805a0a9e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level3 Complete.unity using Guid(ac6a7faf8965b234086130805a0a9e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e73fe2e7d09fb3281381feee529f8ba') in 0.007049 seconds
+  Import took 0.011714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 513.422911 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11ffa46264cfa079f57ecb9c34121c8b') in 0.003247 seconds
+  Import took 0.007184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.909032 seconds.
+  path: Assets/UI
+  artifactKey: Guid(3d50c8da234033447aef5a7441337092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI using Guid(3d50c8da234033447aef5a7441337092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81be6170163939edd53e8155309438f2') in 0.006928 seconds
+  Import took 0.011266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.699820 seconds.
+  path: Assets/Audio
+  artifactKey: Guid(4c5e84bb60f59fb419892480d13abe8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio using Guid(4c5e84bb60f59fb419892480d13abe8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7012abd8995c3c91bd88c4a4ff6b6e45') in 0.008955 seconds
+  Import took 0.013214 seconds .
+
